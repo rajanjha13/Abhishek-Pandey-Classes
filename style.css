@@ -359,7 +359,7 @@ a, button {
 }
 
 .cbox .det {
-    width: calc(33.33% - 20px); /* Adjust width for responsiveness */
+    width: calc(50% - 40px); /* Adjust width for responsiveness */
     max-width: 300px; /* Set maximum width to avoid stretching on larger screens */
     margin: 10px;
     background: #fff;
@@ -908,7 +908,7 @@ footer .btn:hover {
 		width: 90%;
 	}
 	.title {
-		margin-top: 0px;
+		margin-top: 90px;
 	}
 	
 }
@@ -924,12 +924,6 @@ footer .btn:hover {
 		/* align-self: center; */
 	}
 }
-
-/* Example of CSS media query for small devices */
-@media only screen and (max-width: 600px) {
-    /* Add your responsive styles here */
-}
-
 
 @media screen and (max-width: 1000px) {	
 	.feedbox form input, .feedbox form .fname{
