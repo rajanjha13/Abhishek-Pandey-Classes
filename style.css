@@ -111,9 +111,6 @@ a, button {
 	display: block;
 	text-decoration: none;
 	text-align: center;
-	padding-bottom: 15px;
-	justify-content: space-around;
-	align-items: center;
 }
 .head-container {
 	margin-top: 245px;
@@ -354,6 +351,7 @@ a, button {
 	display: inline-flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	justify-content: space-around
 }
 .cbox .det {
 	width: 250px;
