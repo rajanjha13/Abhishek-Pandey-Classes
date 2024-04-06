@@ -112,6 +112,8 @@ a, button {
 	text-decoration: none;
 	text-align: center;
 	padding-bottom: 15px;
+	justify-content: space-around;
+	align-items: center;
 }
 .head-container {
 	margin-top: 245px;
