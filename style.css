@@ -307,6 +307,7 @@ a, button {
 	flex-wrap: wrap;
 	display: flex;
 	align-items: center;
+	justify-content: space-around
 }
 .about-content .side-text {
 	width: 550px;
