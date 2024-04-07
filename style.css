@@ -349,7 +349,7 @@ a, button {
 /* ABOUT SECTION MEDIA QUERY */
 @media screen and (max-width: 960px) {
     .about-content .side-text {
-        width: 80%; /* Adjusted width for smaller screens */
+        width: 50%; /* Adjusted width for smaller screens */
     }
 
     .about-content .side-image img {
