@@ -380,6 +380,25 @@ a, button {
     }
 }
 
+/* CONTACT FORM MEDIA QUERY */
+@media screen and (max-width: 480px) {
+    .cc {
+        width: 90%; /* Adjusted width for smaller screens */
+        margin: 0 auto; /* Center the form horizontally */
+    }
+
+    .cc form {
+        width: 100%;
+    }
+
+    .cc form input,
+    .cc form textarea {
+        width: calc(100% - 30px); /* Adjusted width for input fields */
+        margin-bottom: 15px;
+    }
+}
+
+
 /*POPULAR SUBJECTS*/
 /* POPULAR SUBJECTS */
 .cbox {
