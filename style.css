@@ -359,7 +359,7 @@ a, button {
 
 @media screen and (max-width: 700px) {
     .about-content .side-text {
-        width: 90%; /* Adjusted width for even smaller screens */
+        width: 50%; /* Adjusted width for even smaller screens */
     }
 
     .about-content .side-image img {
